@@ -1,0 +1,3 @@
+[submodule "themes/heptane"]
+	path = themes/heptane
+	url = git@github.com:codeinred/heptane.git
