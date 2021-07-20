@@ -34,7 +34,8 @@ Congratulations to all participants at the PROMYS Girls' Math Circle Math Collab
 
 Congratulations to Josh Sher for winning the [Thirst For Firsts](https://girlsangle.wordpress.com/2020/07/15/thirst-for-firsts-a-girls-angle-raffle/) puzzle raffle! We also had a member winner who wishes to remain anonymous.
 
-<iframe src="https://www.youtube.com/embed/Qnp02_9p4sg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="310" height="190" frameborder="0"></iframe>
+<div class=video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qnp02_9p4sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The latest WIM video has been posted as of July 5, 2020! Watch UCSD Associate Professor Angela Yu discuss [conditional probability](http://girlsangle.org/page/filmpage.php?num=19).
 
