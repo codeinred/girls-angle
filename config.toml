@@ -17,7 +17,7 @@ theme = "heptane"
       autoHeadingID = true
       autoHeadingIDType = "github"
       [markup.goldmark.parser.attribute]
-        block = false
+        block = true
         title = true
     [markup.goldmark.renderer]
       hardWraps = false
