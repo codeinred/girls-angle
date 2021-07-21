@@ -8,11 +8,11 @@ draft: false
 
 # Girls' Angle is...
 
-- a math club for girls
-- a comprehensive approach to math education for girls
-- a producer of math educational content
-- a supportive community for women and girls who study, use, and create mathematics.
-- a nonprofit founded in 2007
+- A math club for girls
+- A comprehensive approach to math education for girls
+- A producer of math educational content
+- A supportive community for women and girls who study, use, and create mathematics.
+- A nonprofit founded in 2007
 
 # Our Mission
 
@@ -22,7 +22,9 @@ draft: false
 
 Read our latest issue of the [Girls' Angle Bulletin](page/bulletin-archive/GABv14n05E.pdf)! For a content summary, please visit [our blog](https://girlsangle.wordpress.com/2021/6/30/girls-angle-bulletin-volume-14-number-5/). Visit the [Bulletin page](page/bulletin.php) to access this and past issues.
 
-[![class.aside Girls' Angle Bulletin](page/bulletin_files/Coverv14n05.jpg)](page/bulletin-archive/GABv14n05E.pdf)
+[![Girls' Angle Bulletin](/images/Coverv14n05.jpg)](page/bulletin-archive/GABv14n05E.pdf)
+Cover of the latest girlsangle bulletin
+{ .aside }
 
 Congratulations to all participants at the Trinity Math Collaboration for third graders! Also, congratulations and many thanks to Maia Posternack for organizing and running the event.
 
@@ -34,8 +36,10 @@ Congratulations to all participants at the PROMYS Girls' Math Circle Math Collab
 
 Congratulations to Josh Sher for winning the [Thirst For Firsts](https://girlsangle.wordpress.com/2020/07/15/thirst-for-firsts-a-girls-angle-raffle/) puzzle raffle! We also had a member winner who wishes to remain anonymous.
 
-<div class=video>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qnp02_9p4sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-container unpadded">
+<img width="16" height="9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qnp02_9p4sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The latest WIM video has been posted as of July 5, 2020! Watch UCSD Associate Professor Angela Yu discuss [conditional probability](http://girlsangle.org/page/filmpage.php?num=19).
 
