@@ -36,23 +36,11 @@ Congratulations to all participants at the PROMYS Girls' Math Circle Math Collab
 
 Congratulations to Josh Sher for winning the [Thirst For Firsts](https://girlsangle.wordpress.com/2020/07/15/thirst-for-firsts-a-girls-angle-raffle/) puzzle raffle! We also had a member winner who wishes to remain anonymous.
 
-<div class="iframe-container unpadded">
-<img width="16" height="9" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEElEQVR42mNkIAAYRxWAAQAG9gAKqv6+AwAAAABJRU5ErkJggg==">
-<iframe width="560" height="315" zrc="" data-src="https://www.youtube.com/embed/Qnp02_9p4sg" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<link rel="stylesheet" href="/lite-youtube-embed/lite-yt-embed.css" />
 
-<script>
-// Add this script
-function deferIframe() {
-  var iframeElem = document.getElementsByTagName('iframe');
-  for ( var i = 0; i < iframeElem.length; i++ ) {
-    if(iframeElem[i].getAttribute('data-src')) {
-      iframeElem[i].setAttribute('src',iframeElem[i].getAttribute('data-src'));
-    }
-  }
-}
-window.onload = deferIframe;
-</script>
+<script src="/lite-youtube-embed/lite-yt-embed.js" defer></script>
+
+<lite-youtube videoid="Qnp02_9p4sg" playlabel="Play: Keynote (Google I/O '18)"></lite-youtube>
 
 The latest WIM video has been posted as of July 5, 2020! Watch UCSD Associate Professor Angela Yu discuss [conditional probability](http://girlsangle.org/page/filmpage.php?num=19).
 
