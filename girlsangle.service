@@ -1,0 +1,9 @@
+[Unit]
+After=network-online.target
+
+[Service]
+WorkingDirectory=/home/alecto/alecto/girls-angle
+ExecStart=/home/linuxbrew/.linuxbrew/bin/hugo server -D --bind=0.0.0.0 --port 1315
+
+[Install]
+WantedBy=default.target
