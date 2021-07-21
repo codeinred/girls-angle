@@ -1,5 +1,5 @@
 ---
-title: "Girls' Angle"
+title: "Girls' Angle: A Math Club For Girls"
 date: 2021-07-19T15:00:37-06:00
 draft: false
 ---
@@ -38,8 +38,21 @@ Congratulations to Josh Sher for winning the [Thirst For Firsts](https://girlsan
 
 <div class="iframe-container unpadded">
 <img width="16" height="9" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEElEQVR42mNkIAAYRxWAAQAG9gAKqv6+AwAAAABJRU5ErkJggg==">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qnp02_9p4sg" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" zrc="" data-src="https://www.youtube.com/embed/Qnp02_9p4sg" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<script>
+// Add this script
+function deferIframe() {
+  var iframeElem = document.getElementsByTagName('iframe');
+  for ( var i = 0; i < iframeElem.length; i++ ) {
+    if(iframeElem[i].getAttribute('data-src')) {
+      iframeElem[i].setAttribute('src',iframeElem[i].getAttribute('data-src'));
+    }
+  }
+}
+window.onload = deferIframe;
+</script>
 
 The latest WIM video has been posted as of July 5, 2020! Watch UCSD Associate Professor Angela Yu discuss [conditional probability](http://girlsangle.org/page/filmpage.php?num=19).
 
